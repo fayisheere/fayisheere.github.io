@@ -2,7 +2,7 @@
   "name": "fayis-portfolio",
   "version": "1.0.0",
   "description": "Modern portfolio for Muhammad Fayis - Flutter Developer & Data Analyst",
-  "homepage": "https://fayisdotdev.github.io",
+  "homepage": "https://fayisheere.github.io",
   "private": true,
   "dependencies": {
     "lucide-react": "^0.263.1",
@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.0"
   },
